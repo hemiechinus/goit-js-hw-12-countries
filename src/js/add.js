@@ -42,9 +42,6 @@ function onSearch(e) {
       error({
         text: error,
       });
-    })
-    .finally(() => {
-      clearInput();
     });
 }
 

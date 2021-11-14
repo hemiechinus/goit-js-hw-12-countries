@@ -1,0 +1,14 @@
+body{
+    background-image: url('../images/back.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.search-head{
+    text-align: center;
+}
+.search-form{
+  position: fixed;
+  right: 50%;
+  transform: translate(50%);
+  opacity: 0.6;
+}
