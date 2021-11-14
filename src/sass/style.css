@@ -12,3 +12,19 @@ body{
   transform: translate(50%);
   opacity: 0.6;
 }
+.card{
+    display: flex;
+    position:absolute;
+    right: 50%;
+    top: 30%;
+    transform: translate(50%);
+ 
+}
+.card-body{
+    width: 200px;
+}
+.card-text{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
